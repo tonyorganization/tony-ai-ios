@@ -1,0 +1,16 @@
+telegram_bazel_path = "/opt/homebrew/bin/bazelisk"
+telegram_use_xcode_managed_codesigning = False
+telegram_bundle_id = ""
+telegram_api_id = ""
+telegram_api_hash = ""
+telegram_team_id = ""
+telegram_app_center_id = "0"
+telegram_is_internal_build = "true"
+telegram_is_appstore_build = "false"
+telegram_appstore_id = ""
+telegram_app_specific_url_scheme = "tg"
+telegram_premium_iap_product_id = ""
+telegram_aps_environment = "production"
+telegram_enable_siri = False
+telegram_enable_icloud = False
+telegram_enable_watch = True

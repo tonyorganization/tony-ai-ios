@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "IntroBackgroundNight.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

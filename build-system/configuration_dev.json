@@ -1,0 +1,15 @@
+{
+    "bundle_id": "",
+    "api_id": "",
+    "api_hash": "",
+    "team_id": "",
+    "ton_service": "https://",
+    "app_center_id": "0",
+    "is_internal_build": "false",
+    "is_appstore_build": "true",
+    "appstore_id": "",
+    "app_specific_url_scheme": "tg",
+    "premium_iap_product_id": "",
+    "enable_siri": false,
+    "enable_icloud": false
+}
